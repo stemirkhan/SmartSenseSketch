@@ -50,6 +50,6 @@ const char* access_token = "токен доступа для проверки п
 
 ## Cсылки
 <a name="useful_links"></a>
-- Data sheet на датчик [BMP280](#https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-7.pdf)
-- Data sheet на датчик [AHT10](#https://cxemka.com/upload/art/aht10/d/aht10_datasheet_temperature_humidity_sensor_%28EN%29.pdf)
-- Data sheet на датчик [MQ-7](#https://amperkot.ru/static/3236/uploads/datasheets/BST-BMP280.pdf)
+- Data sheet на датчик [BMP280](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-7.pdf)
+- Data sheet на датчик [AHT10](https://cxemka.com/upload/art/aht10/d/aht10_datasheet_temperature_humidity_sensor_%28EN%29.pdf)
+- Data sheet на датчик [MQ-7](https://amperkot.ru/static/3236/uploads/datasheets/BST-BMP280.pdf)
